@@ -17,3 +17,5 @@ This tool also has an algorithm capable of learning by itself, so the more we in
 the smarter it will become.
 The functionalities of this tool are almost endless, so in this project I have tried to encompass all
 those that have seemed most "useful" to me.
+
+
