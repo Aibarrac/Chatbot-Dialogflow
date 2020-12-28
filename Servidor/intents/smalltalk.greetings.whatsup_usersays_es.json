@@ -1,0 +1,62 @@
+[
+  {
+    "id": "e93a918b-174d-4c65-b17b-2068af78e993",
+    "data": [
+      {
+        "text": "qué hay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "391ca10c-a0b0-46d6-9058-46298ae5200f",
+    "data": [
+      {
+        "text": "qué pasa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ed32535-38db-4ca0-994d-7fe8263ecb0b",
+    "data": [
+      {
+        "text": "qué onda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0933bbda-208b-4559-87a5-e10f3a628961",
+    "data": [
+      {
+        "text": "qué te pasa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cdf9367b-661e-4754-a18d-eea991a65735",
+    "data": [
+      {
+        "text": "qué es lo que te está pasando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

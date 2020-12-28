@@ -1,0 +1,86 @@
+[
+  {
+    "id": "b86baeae-cf00-431d-bce0-cc038bf9234d",
+    "data": [
+      {
+        "text": "pero de qué hablas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee3cfdd2-4b17-4d09-a530-dee6575525fc",
+    "data": [
+      {
+        "text": "de qué me estás hablando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3867e581-c7e0-458a-bd50-3b008686b0dc",
+    "data": [
+      {
+        "text": "a qué te refieres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f35f6af1-f15d-4300-bdf3-cec551483a8b",
+    "data": [
+      {
+        "text": "qué quieres decir con eso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "856bcf26-77b3-4a18-b977-1ca22f726e3e",
+    "data": [
+      {
+        "text": "no entiendo a qué te refieres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78496a60-992f-4b90-ae08-ca5346eb9d52",
+    "data": [
+      {
+        "text": "qué quieres decir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2f50768-437f-4f27-a249-d28668e17fd8",
+    "data": [
+      {
+        "text": "se puede saber a qué te refieres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "50061b30-47ee-4149-90be-6de4a318d009",
+    "data": [
+      {
+        "text": "me entró sueño",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "034247f7-d970-40fb-b8eb-985cd35828ca",
+    "data": [
+      {
+        "text": "tengo sueño",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74547e6f-f8ef-4825-8467-75d01786caf8",
+    "data": [
+      {
+        "text": "quiero dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b196834-a1b2-48c9-85bb-06f13b7fcfb0",
+    "data": [
+      {
+        "text": "tengo ganas de dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1dbb1c9-a4ac-4739-8174-8b9caabdb929",
+    "data": [
+      {
+        "text": "el sueño me está atacando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5ab37f6-bf5e-4b09-9c9e-26b6e635edca",
+    "data": [
+      {
+        "text": "me empieza a entrar sueño",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

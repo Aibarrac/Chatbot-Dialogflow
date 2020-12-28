@@ -1,0 +1,45 @@
+{
+  "description": "Allow your app to engage in small talk about a variety of topics.",
+  "language": "es",
+  "shortDescription": "Small talk topics to help make your bot more personable",
+  "examples": "User: ¡Hola!\nUser: ¿Cómo estás?\nUser: ¡Gracias!\nUser: De nada.\nUser: ¿Qué hay?\nUser: Me aburro.\nUser: Es broma.\nUser: ¡Muy bien!\nUser: ¿Quién eres?\nUser: ¿Cuántos años tienes?\nUser: Eres inteligente.\nUser: ¿Cómo te diviertes?",
+  "activeAssistantAgents": [],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "satisfaction-ce35c",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "https://us-central1-satisfaction-ce35c.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "headers": {
+      "": ""
+    },
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

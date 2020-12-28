@@ -1,0 +1,110 @@
+[
+  {
+    "id": "e75dde6c-f09a-4db5-a054-304e6351d9a0",
+    "data": [
+      {
+        "text": "es verdad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b1eb055c-3b3c-4a6b-b10a-779531194582",
+    "data": [
+      {
+        "text": "tienes razón",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c4c6be7-037d-4d28-bae2-2a166a756213",
+    "data": [
+      {
+        "text": "verdad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40351e9f-bfdc-4e47-a545-c30d8d599c22",
+    "data": [
+      {
+        "text": "correcto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba05ca3c-de7e-4fac-ba77-2e9878032888",
+    "data": [
+      {
+        "text": "cierto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddc781bf-78a3-4385-af57-9656ef208065",
+    "data": [
+      {
+        "text": "así es",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4677bd8-3980-498f-a4e6-28a8d40fc357",
+    "data": [
+      {
+        "text": "tienes mucha razón",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13ab9067-8578-47ae-a46e-bdcf8cb61e74",
+    "data": [
+      {
+        "text": "es correcto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcea7340-4104-43af-b171-72cfdab53182",
+    "data": [
+      {
+        "text": "absolutamente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

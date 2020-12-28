@@ -1,0 +1,122 @@
+[
+  {
+    "id": "685eb610-8d1b-4555-8a17-1e6720975014",
+    "data": [
+      {
+        "text": "qué te parece si nos casamos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "474a769c-be36-433f-ad7a-3b1bef96d6b5",
+    "data": [
+      {
+        "text": "quieres casarte conmigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32bd2727-5862-4a2f-9ba8-836eedc38a1c",
+    "data": [
+      {
+        "text": "cásate conmigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a9d218e6-fc7b-41a2-a7bf-74a8f31e2c6f",
+    "data": [
+      {
+        "text": "me gustaría que te casaras conmigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8421f605-ba6f-4820-a7bc-531ad852fc91",
+    "data": [
+      {
+        "text": "quiero que seas mi esposa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2571a9f-26bd-4b5f-b6eb-9ef80c3812c4",
+    "data": [
+      {
+        "text": "quisiera que fueras mi marido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49ac5aa9-c802-49d8-a820-1feb0dd39251",
+    "data": [
+      {
+        "text": "tenemos que casarnos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d80193b4-53da-4149-b70f-ea4188ee582f",
+    "data": [
+      {
+        "text": "creo que nos tenemos que casar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f78dae62-6555-441e-9102-50539360a04e",
+    "data": [
+      {
+        "text": "quieres ser mi esposo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e13fd626-64ff-423a-91d2-416942c2207b",
+    "data": [
+      {
+        "text": "te gustaría casar conmigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

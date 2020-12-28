@@ -1,0 +1,122 @@
+[
+  {
+    "id": "7b98d3cf-bf94-4cbb-b8e8-dfa9a08a0d31",
+    "data": [
+      {
+        "text": "dónde vives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db51660d-c647-436d-90bc-464a908c7d87",
+    "data": [
+      {
+        "text": "muéstrame dónde vives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38b5ce45-9af1-43ea-ad7c-3fbdbafd4ebb",
+    "data": [
+      {
+        "text": "dónde está tu casa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff394870-943a-4e6e-8e3f-d50aa09f1da8",
+    "data": [
+      {
+        "text": "tienes casa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae3d3d0d-f491-4e74-b880-00b2627da9a3",
+    "data": [
+      {
+        "text": "tu casa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4523a8f5-b95c-442d-b9d7-799eebb256c3",
+    "data": [
+      {
+        "text": "quiero que me muestres dónde vives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cc634dd-2ea7-49f2-a2e5-9b288de913d9",
+    "data": [
+      {
+        "text": "vives aquí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8178f77a-d016-42cb-aa6a-4c5dece31ecf",
+    "data": [
+      {
+        "text": "cuéntame dónde vives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0a3066a-76fa-4193-ab2f-a01a7c74264c",
+    "data": [
+      {
+        "text": "qué casa tienes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72b3d52d-de17-40f5-97c8-6b73a0802f5b",
+    "data": [
+      {
+        "text": "quisiera saber dónde vives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

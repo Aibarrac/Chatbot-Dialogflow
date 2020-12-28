@@ -1,0 +1,110 @@
+[
+  {
+    "id": "133703f0-0a35-471e-bd0b-548b87b25088",
+    "data": [
+      {
+        "text": "terminemos esta conversación ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecdf2f90-33df-4fb6-8bb6-6c3643672a55",
+    "data": [
+      {
+        "text": "vamos a terminar esta conversación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa49f0f7-94e3-4bb3-bcc3-3a766c748b9f",
+    "data": [
+      {
+        "text": "no quiero hablar más",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca716e7e-61cc-492b-980d-7149dab9089b",
+    "data": [
+      {
+        "text": "no quiero hablar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "205c9478-9d06-40ec-b713-ffd1e0feda66",
+    "data": [
+      {
+        "text": "no me apetece hablar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1dc9ca01-3ee8-44cd-9d2d-d541b5ad9b91",
+    "data": [
+      {
+        "text": "no tengo gamas de hablar contigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d07a5c7e-2e0d-40fa-b7a7-3d9c64370f14",
+    "data": [
+      {
+        "text": "perdí las ganas de hablar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d442b94-6bbb-4f2f-9581-6cdfb178e2c6",
+    "data": [
+      {
+        "text": "no estoy de humor para hablar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85a0ed19-0c49-4284-82f4-d0f1337cdad4",
+    "data": [
+      {
+        "text": "no estoy para charlar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

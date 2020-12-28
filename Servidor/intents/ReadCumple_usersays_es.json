@@ -1,0 +1,148 @@
+[
+  {
+    "id": "244a3de8-1d47-43b8-bb68-95ddd5e0c13c",
+    "data": [
+      {
+        "text": "Cuando es mi cumple?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f996eb0f-4563-47e3-b501-fb854af626c5",
+    "data": [
+      {
+        "text": "cuando es el cumpleaños de ",
+        "userDefined": false
+      },
+      {
+        "text": "Andrea",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6b347100-57b0-4848-a8ef-adc158c0d947",
+    "data": [
+      {
+        "text": "Que dia es el cumple de ",
+        "userDefined": false
+      },
+      {
+        "text": "Julia",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ea92017-c12b-4ac5-85f5-cf7698bde01b",
+    "data": [
+      {
+        "text": "Que dia es el cumpleaños de ",
+        "userDefined": false
+      },
+      {
+        "text": "Jose",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "19d33ab3-c5fe-466d-a9fa-9e25307361e1",
+    "data": [
+      {
+        "text": "Cuando es el cumpleaños de ",
+        "userDefined": false
+      },
+      {
+        "text": "Marc",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "500f47a3-2e35-4066-93ae-8a110a1f59c2",
+    "data": [
+      {
+        "text": "Cuando es el cumple de ",
+        "userDefined": false
+      },
+      {
+        "text": "Carla",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25fc0dc1-ae10-4eaa-9602-3a5f965044f6",
+    "data": [
+      {
+        "text": "Que dia es mi cumple?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4615081f-23e3-4de4-ad9d-f5797c7fa83a",
+    "data": [
+      {
+        "text": "Que dia es mi cumpleaños?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "30c863fc-2b41-44c0-91fe-f29248cc0724",
+    "data": [
+      {
+        "text": "Cuando es mi cumpleaños?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

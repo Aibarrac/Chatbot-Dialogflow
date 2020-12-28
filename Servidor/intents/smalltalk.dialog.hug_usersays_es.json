@@ -1,0 +1,176 @@
+[
+  {
+    "id": "21e6a0aa-0bfe-4b8c-9d81-547442ad456e",
+    "data": [
+      {
+        "text": "abrázame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f433aef-23e6-4f8a-80e6-702d349d0667",
+    "data": [
+      {
+        "text": "quiero un abrazo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20f0c691-0d32-4c06-9a14-3c8f4b8e6825",
+    "data": [
+      {
+        "text": "necesito un abrazo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62fb05e5-ec74-4701-bbb4-d8ffa34680e4",
+    "data": [
+      {
+        "text": "te quiero abrazar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a3d5991-e97b-4484-b536-4dfbdc023583",
+    "data": [
+      {
+        "text": "me puedes dar un abrazo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6337305-f830-4f94-b053-f38acdafc9ae",
+    "data": [
+      {
+        "text": "estaría muy contento si me abrazaras",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "953a6cf2-4287-4cf3-a622-84c2120c9653",
+    "data": [
+      {
+        "text": "abrazo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb064650-f780-4920-b335-3d61dec02f7f",
+    "data": [
+      {
+        "text": "quieres que te abraze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5855fced-b340-4d36-9841-12d13dc1432d",
+    "data": [
+      {
+        "text": "te doy ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " abrazo fuerte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52a27d78-5352-4ab6-a453-cf5052ac1ba1",
+    "data": [
+      {
+        "text": "dame ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " abrazote por favor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51329fef-2044-4228-9c1f-a52c2bbce8cc",
+    "data": [
+      {
+        "text": "te abrazo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c98c17b9-9668-436f-bc99-10e4f066e1ae",
+    "data": [
+      {
+        "text": "te doy un abrazote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a78d3f0-6e69-4755-b047-1dbf86bd9063",
+    "data": [
+      {
+        "text": "quisiera darte un abrazo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

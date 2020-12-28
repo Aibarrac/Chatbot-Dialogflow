@@ -1,0 +1,74 @@
+[
+  {
+    "id": "01a521de-2cb1-42c7-b93b-e2bc05d4cd7c",
+    "data": [
+      {
+        "text": "he vuelto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db8446be-9634-4a43-9cf5-a945c8f2b3f2",
+    "data": [
+      {
+        "text": "ya he vuelto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f856ac4-25a3-4bca-983b-36d53132ff98",
+    "data": [
+      {
+        "text": "aquí estoy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a3c575b-574a-41e9-98a1-380ba77c58e7",
+    "data": [
+      {
+        "text": "regresé en qué estábamos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f55dd3b6-d8ef-4d6c-a45d-b667227e7380",
+    "data": [
+      {
+        "text": "aquí estoy otra vez",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9eb20cd-ee4a-4b49-af5b-24d9e9b6c588",
+    "data": [
+      {
+        "text": "he regresado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

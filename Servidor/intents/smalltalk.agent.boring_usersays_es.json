@@ -1,0 +1,98 @@
+[
+  {
+    "id": "20cc578b-4ca4-476f-b708-dc616aa945a1",
+    "data": [
+      {
+        "text": "eres aburrido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f66e3ed4-8427-420a-a2ec-b8a302ee1fb5",
+    "data": [
+      {
+        "text": "me aburro contigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffeac7e1-4f81-4193-956b-6affd9a1fd2c",
+    "data": [
+      {
+        "text": "me aburres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9f48f28-ed9f-4a21-8a1a-706aeae16141",
+    "data": [
+      {
+        "text": "eres tan aburrida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19fe0f3c-8079-4589-a93d-bc9d78923858",
+    "data": [
+      {
+        "text": "me pareces aburrido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c62b549b-8a43-4969-b03b-aff9a2c7b51e",
+    "data": [
+      {
+        "text": "creo que eres super aburrido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5ffeaf0-c452-42ef-ac70-b570482bb9ac",
+    "data": [
+      {
+        "text": "contigo me aburro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3dd43d91-625a-43e5-942c-967d7d5594ef",
+    "data": [
+      {
+        "text": "cuanto me aburro contigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

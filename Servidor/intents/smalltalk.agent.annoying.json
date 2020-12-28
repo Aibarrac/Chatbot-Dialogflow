@@ -1,0 +1,33 @@
+{
+  "id": "887f7845-0ba2-4281-880a-1d0e32097c40",
+  "name": "smalltalk.agent.annoying",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.annoying",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Tu también eres muy molesto",
+            "A mi también me irritas",
+            "Dejame en paz"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720214163,
+  "fallbackIntent": false,
+  "events": []
+}

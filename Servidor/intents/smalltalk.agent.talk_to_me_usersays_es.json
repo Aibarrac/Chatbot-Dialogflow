@@ -1,0 +1,112 @@
+[
+  {
+    "id": "5fcd80f1-34cc-4d6c-90be-d10757bc5168",
+    "data": [
+      {
+        "text": "habla",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fce262c3-63c0-481d-9551-1321694ef41a",
+    "data": [
+      {
+        "text": "háblame",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2764d4b1-1da9-4b18-91b6-21ca3b849406",
+    "data": [
+      {
+        "text": "podemos hablar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f02fe41d-8a18-4ffd-b3a5-fdd3a8d94126",
+    "data": [
+      {
+        "text": "quiero que hables conmigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82a54cb2-1ed9-42dd-922d-47481686babe",
+    "data": [
+      {
+        "text": "podrías hablar conmigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ae31ac5-74f3-4064-85a4-b765e5892d09",
+    "data": [
+      {
+        "text": "vamos a hablar de algo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "007fbb5a-97c0-4ff5-b534-1d0004ca120d",
+    "data": [
+      {
+        "text": "hablemos de algo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15039ebd-fa4e-4cd9-9caf-2d7feda8be90",
+    "data": [
+      {
+        "text": "hablemos por favor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f61d04be-57c2-4bbe-9117-f5b7ad7140b6",
+    "data": [
+      {
+        "text": "podemos hablar un momento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

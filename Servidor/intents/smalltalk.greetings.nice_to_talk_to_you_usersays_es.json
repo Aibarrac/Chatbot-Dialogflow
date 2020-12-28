@@ -1,0 +1,62 @@
+[
+  {
+    "id": "99052441-6c80-4922-aef7-d4597d8ddc79",
+    "data": [
+      {
+        "text": "encantado de hablar contigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76c57673-cea3-461d-85a9-1aaf4866406f",
+    "data": [
+      {
+        "text": "me alegra de haber hablado contigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74b48d56-0998-4fae-a6f1-b2a95cc9627b",
+    "data": [
+      {
+        "text": "un placer hablar contigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f28c2cc-5b5f-4bf1-84e5-2f71fa7ed2df",
+    "data": [
+      {
+        "text": "ha sido agradable hablar contigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f964f5e9-d095-451e-95e0-d903df94728f",
+    "data": [
+      {
+        "text": "cómo me alegro de poder hablar contigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

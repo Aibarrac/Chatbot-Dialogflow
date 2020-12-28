@@ -1,0 +1,196 @@
+[
+  {
+    "id": "a95c17e7-b820-44d5-82d3-b28a0adb62a3",
+    "data": [
+      {
+        "text": "Abrir ",
+        "userDefined": false
+      },
+      {
+        "text": "Spotify",
+        "alias": "app",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "a53476a2-3c32-4bd4-86c8-ae7ee324bd45",
+    "data": [
+      {
+        "text": "Spotify",
+        "alias": "app",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "updated": 0
+  },
+  {
+    "id": "be978b5c-3c14-4541-bcca-2599f2ce01cb",
+    "data": [
+      {
+        "text": "Abrir ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "alias": "app",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 0
+  },
+  {
+    "id": "519d962b-0558-483c-b5ec-0906dd50fbb2",
+    "data": [
+      {
+        "text": "Instagram",
+        "alias": "app",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "fe64ee95-7489-4b1c-a553-04bac9e5aa49",
+    "data": [
+      {
+        "text": "Abrir ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "alias": "app",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "f50726f8-7841-4d0b-aa55-06cc6991308f",
+    "data": [
+      {
+        "text": "Youtube",
+        "alias": "app",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "a554f5eb-26ad-436a-84dc-59e054a1ed92",
+    "data": [
+      {
+        "text": "Abrir ",
+        "userDefined": false
+      },
+      {
+        "text": "Chrome",
+        "alias": "app",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "25336e2a-73be-424b-8b64-a6a0f4dbcffd",
+    "data": [
+      {
+        "text": "Open ",
+        "userDefined": false
+      },
+      {
+        "text": "spotify",
+        "alias": "app",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38f9b40b-2e18-47aa-8233-2973bbdbcd77",
+    "data": [
+      {
+        "text": "Open ",
+        "userDefined": false
+      },
+      {
+        "text": "instagram",
+        "alias": "app",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6abbf0f2-2527-45e8-98c4-abca5ca78425",
+    "data": [
+      {
+        "text": "Chrome",
+        "alias": "app",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4425dbb0-7b90-4a2c-b651-447d89d65e25",
+    "data": [
+      {
+        "text": "Open ",
+        "userDefined": false
+      },
+      {
+        "text": "Chrome",
+        "alias": "app",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b7da761-b1db-49bb-bd05-4c723c27a5eb",
+    "data": [
+      {
+        "text": "Open ",
+        "userDefined": false
+      },
+      {
+        "text": "youtube",
+        "alias": "app",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

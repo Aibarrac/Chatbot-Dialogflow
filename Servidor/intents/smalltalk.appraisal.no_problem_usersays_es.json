@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a397edd7-35e7-4b77-806a-3364a4f5c20f",
+    "data": [
+      {
+        "text": "ningún problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125e8b77-026c-41a8-91fe-a3dfc56f3602",
+    "data": [
+      {
+        "text": "no hay problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53bf6203-b661-402f-89fa-0229043b1617",
+    "data": [
+      {
+        "text": "no pasa nada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27204faa-6dfe-4900-88a8-46ba419ffbb9",
+    "data": [
+      {
+        "text": "no te preocupes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "884f83ac-3def-409f-b0a2-c832bb2f32f6",
+    "data": [
+      {
+        "text": "tranquilo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

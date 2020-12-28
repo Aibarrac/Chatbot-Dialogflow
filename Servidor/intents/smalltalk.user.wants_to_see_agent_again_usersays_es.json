@@ -1,0 +1,141 @@
+[
+  {
+    "id": "38a52a7b-186b-4a45-a15d-95603bfd2e55",
+    "data": [
+      {
+        "text": "tengo ganas ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " verte otra ",
+        "userDefined": false
+      },
+      {
+        "text": "vez",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d854cc8f-90dd-4754-8fb7-a9c3d3072585",
+    "data": [
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " haría feliz volver a verte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e75e4780-05bb-488c-a904-c02bb2ab35f1",
+    "data": [
+      {
+        "text": "ojalá nos volvamos a ver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65541bd0-5899-4611-b459-013b29ee7575",
+    "data": [
+      {
+        "text": "sería estupendo volver a verte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81661a98-783b-465d-8d73-1bfcabd11843",
+    "data": [
+      {
+        "text": "quiero volver a verte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18fa6f48-c7ea-483c-9f4e-6debff36fb81",
+    "data": [
+      {
+        "text": "cuándo volveré a verte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "edd45440-c762-4fe2-9312-bdcf7cc8af34",
+    "data": [
+      {
+        "text": "podemos volver a vernos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1facbee-ec3b-4e29-9825-4960a239ffeb",
+    "data": [
+      {
+        "text": "espero volver a verte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b84445b5-eaa6-4aaf-b6c2-06025e7d3bce",
+    "data": [
+      {
+        "text": "cuándo nos vemos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfb02e76-8a2d-4074-afe6-3c3b2811891c",
+    "data": [
+      {
+        "text": "cuándo nos veremos otra vez",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

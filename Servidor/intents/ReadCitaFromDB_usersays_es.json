@@ -1,0 +1,287 @@
+[
+  {
+    "id": "62242caa-eec5-4960-bc44-31f8af6152c5",
+    "data": [
+      {
+        "text": "mostrar citas para ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7f94dcef-52c3-435d-ba4a-820e7b1eb507",
+    "data": [
+      {
+        "text": "mostrar citas ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d12ed9f-3b9d-472c-9967-b967934c875a",
+    "data": [
+      {
+        "text": "ver citas ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "917d0f6d-48d4-440d-9c47-9c93970b7774",
+    "data": [
+      {
+        "text": "Ver citas ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "661d90d2-dfe6-4bce-ac1b-dc1cfb393c3c",
+    "data": [
+      {
+        "text": "cita ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "3pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e08bf803-4244-4956-8a66-8d51e6400275",
+    "data": [
+      {
+        "text": "tareas para el ",
+        "userDefined": false
+      },
+      {
+        "text": "10 de abril",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aed313c2-b588-4163-b782-bafc7a9cd3e7",
+    "data": [
+      {
+        "text": "mostrar citas para ",
+        "userDefined": false
+      },
+      {
+        "text": "pasado mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75d3c7cc-104d-4e19-80f2-5bc7ac639275",
+    "data": [
+      {
+        "text": "ver citas para ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b217244c-cecb-4036-9009-c9431899700d",
+    "data": [
+      {
+        "text": "citas para ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c2ea647-c252-4bc1-b3af-f19a87ad3b2b",
+    "data": [
+      {
+        "text": "citas para el ",
+        "userDefined": false
+      },
+      {
+        "text": "18 de noviembre",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3358e38-79cc-44c6-a48a-aae55dc9b582",
+    "data": [
+      {
+        "text": "mostrar tareas para ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25b44929-7b7f-4273-877b-f20e3a23f2bd",
+    "data": [
+      {
+        "text": "ver tareas para ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a35fb95-cf8e-4816-8ffd-6f55fc2f2f3e",
+    "data": [
+      {
+        "text": "ver tareas pendientes ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96c82a5b-233e-4196-ba36-3bdcdd4964e7",
+    "data": [
+      {
+        "text": "mostrar citas para ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6907c0c4-3494-4c45-b624-276901aab957",
+    "data": [
+      {
+        "text": "mostrar tareas para el ",
+        "userDefined": false
+      },
+      {
+        "text": "11 de junio",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0af2fd5f-f9dd-4c62-8335-7002127fa71b",
+    "data": [
+      {
+        "text": "tareas para ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

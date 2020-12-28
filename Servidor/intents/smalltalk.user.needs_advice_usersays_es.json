@@ -1,0 +1,110 @@
+[
+  {
+    "id": "d5272e6a-8be8-47aa-a63f-7dd672658e1e",
+    "data": [
+      {
+        "text": "necesito un consejo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb8b821d-4bdf-428e-912d-7bfb9b9bc9d8",
+    "data": [
+      {
+        "text": "me puedes dar un consejo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e87f597-1f19-4044-9c0b-3f60eb36e7e3",
+    "data": [
+      {
+        "text": "necesito un consejo tuyo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "844e362d-2dd6-4763-ac0b-241251cb4dfa",
+    "data": [
+      {
+        "text": "aconséjame por favor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90b377ac-42a1-4013-bcab-3a274bb63ae7",
+    "data": [
+      {
+        "text": "dame un consejo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "887eb3af-cde2-44a2-bb97-d31ab21ea508",
+    "data": [
+      {
+        "text": "me das un consejo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74f08879-8c82-4ec3-88a0-72998890ea28",
+    "data": [
+      {
+        "text": "quiero que me des un consejo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "794c5251-1d60-4cd3-bdd4-898f090ea597",
+    "data": [
+      {
+        "text": "necesito un buen consejo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4c68dd7-ffb2-4dcb-b57e-e74d6f65fbeb",
+    "data": [
+      {
+        "text": "what should I do about it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

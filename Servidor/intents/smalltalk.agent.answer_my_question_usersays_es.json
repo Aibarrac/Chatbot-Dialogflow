@@ -1,0 +1,191 @@
+[
+  {
+    "id": "6b058d4a-ca2d-4b05-b93a-3f5bfc22889f",
+    "data": [
+      {
+        "text": "respóndeme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5c25c75-ff8e-4327-886b-521e914591cc",
+    "data": [
+      {
+        "text": "responde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e8557ca-3f82-4dac-9fd0-2537cb66b882",
+    "data": [
+      {
+        "text": "contéstame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0e469c2-e928-4e2d-befa-d229863bf36a",
+    "data": [
+      {
+        "text": "me puedes responder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c536293a-d148-445d-abbe-a2d17172ce35",
+    "data": [
+      {
+        "text": "me vas a contestar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f8e4a1f-5c68-4509-9e5b-46aa3c531a5c",
+    "data": [
+      {
+        "text": "quiero que me contestes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fc7bd0e-aae7-4f00-b94d-fd51caa11ac9",
+    "data": [
+      {
+        "text": "podrías responder mi pregunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0f08a93-ea37-4ac6-94db-e6e612a79712",
+    "data": [
+      {
+        "text": "contéstame ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fac7fdec-2777-4cf7-90ce-71ebce17fb33",
+    "data": [
+      {
+        "text": "quisiera que responders mi pregunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ddd39ca-6cf3-440b-8c92-d17e37d2747f",
+    "data": [
+      {
+        "text": "dame la respuesta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11472d76-db72-494f-8646-bb4a92add79d",
+    "data": [
+      {
+        "text": "tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pregunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38ffdbdc-8d10-45f3-acf4-89d75bb8eec6",
+    "data": [
+      {
+        "text": "quiero la respuesta ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42a6e6ac-017e-4738-ab39-7778a8deb512",
+    "data": [
+      {
+        "text": "te pido que me contestes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76f2f113-1bc8-4424-a782-99bce1d6095a",
+    "data": [
+      {
+        "text": "sabes contestar preguntas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "441ecc44-cbaf-4c34-b1f7-074713c37e96",
+    "data": [
+      {
+        "text": "quiero respuestas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

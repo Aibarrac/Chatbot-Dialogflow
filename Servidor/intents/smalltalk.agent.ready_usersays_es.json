@@ -1,0 +1,86 @@
+[
+  {
+    "id": "954e4e04-b710-4fa8-b40a-9c9c63443666",
+    "data": [
+      {
+        "text": "listo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f82489da-8cec-4c91-a0bf-1e5c017fd434",
+    "data": [
+      {
+        "text": "estás listo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "328a82c1-a895-4417-bc59-8b30c6decd8e",
+    "data": [
+      {
+        "text": "preparada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7909a51-db7e-4cad-b2e3-4b367f5f5555",
+    "data": [
+      {
+        "text": "estás preparado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1df3215d-d9f7-4afa-a81e-d404aba9272b",
+    "data": [
+      {
+        "text": "ya te has preparado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39ff664a-c5f1-4646-bff2-a5f6290aad19",
+    "data": [
+      {
+        "text": "avísame cuando estés preparada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65e9f5cb-fb03-4abd-93a2-c6c301ccde10",
+    "data": [
+      {
+        "text": "dime si estás preparado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

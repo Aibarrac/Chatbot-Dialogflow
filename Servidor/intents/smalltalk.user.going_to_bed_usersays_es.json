@@ -1,0 +1,128 @@
+[
+  {
+    "id": "4a2c3da4-a5f3-4175-b6b2-e0e656f9cf9d",
+    "data": [
+      {
+        "text": "voy a ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "la",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16d94eb4-69a9-44ba-80a1-9ba1531ad9bf",
+    "data": [
+      {
+        "text": "voy a prepararme para ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "la",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4b89a8d-678d-41c9-928a-547392378447",
+    "data": [
+      {
+        "text": "voy a dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d877088-2084-4954-b551-74181ab2785e",
+    "data": [
+      {
+        "text": "me voy a la cama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42c949a7-4898-455b-8f19-7978d60addec",
+    "data": [
+      {
+        "text": "me voy a la cama ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a57f975-e710-4e6d-b93a-a38aab755ea2",
+    "data": [
+      {
+        "text": "voy a acostarme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e7b88bc-15a9-4d25-b635-eb5d5e5feb76",
+    "data": [
+      {
+        "text": "ya es tarde me voy a acostar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "110b6ee7-7547-4d7c-bb6b-1ee5ac19d4e5",
+    "data": [
+      {
+        "text": "es la hora de dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5aa2dc0f-4ede-4cbe-a054-bd7440858aad",
+    "data": [
+      {
+        "text": "tengo que acostarme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

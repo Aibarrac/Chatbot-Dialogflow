@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1ace82dc-f8dd-4852-947e-7badff8d6487",
+    "data": [
+      {
+        "text": "estás feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4b0a327-f839-4d32-b096-218f505f733e",
+    "data": [
+      {
+        "text": "crees que estás feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ada74c9d-685f-466b-894e-9765550d674f",
+    "data": [
+      {
+        "text": "te ves muy feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "928b8964-9490-4602-bb2c-0029d6b9d05f",
+    "data": [
+      {
+        "text": "dime si estás feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9060f5ab-b48a-45da-952c-dbea81debb09",
+    "data": [
+      {
+        "text": "parece que estás muy feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52557ed7-5716-4af6-8930-c41686fce61f",
+    "data": [
+      {
+        "text": "estás contenta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "802d9379-1901-46dd-8cca-672056f632e7",
+    "data": [
+      {
+        "text": "dime si estás contento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

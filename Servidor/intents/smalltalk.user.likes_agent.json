@@ -1,0 +1,34 @@
+{
+  "id": "55aa44e1-e6ce-4584-8bca-3e04e95d0df5",
+  "name": "smalltalk.user.likes_agent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.likes_agent",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "No me extraña"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Normal"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720214273,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "25616a74-a2b5-499f-b95d-16b6e67c9dd6",
+  "name": "openApp",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "51ed7b17-a37f-4816-ada8-2396509d296d",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "app",
+          "value": "$app",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "26bd60b8-454b-42a7-bc59-d69082d51e28",
+    "data": [
+      {
+        "text": "buenos días",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ebef04b-f73f-473f-81d2-ba9abfce77ce",
+    "data": [
+      {
+        "text": "hola buenos días",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f253d97e-7976-4be9-9e60-3ab864c47acc",
+    "data": [
+      {
+        "text": "muy buenos días",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ad13d04-898f-4486-8383-a3caa5963b6f",
+    "data": [
+      {
+        "text": "hey buenos días",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e56cffbf-a1d9-454f-8c19-5f066c53f252",
+    "data": [
+      {
+        "text": "que tengas un buen día",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5fec1a6-319f-4ebb-b3e8-3e55d38f12d0",
+    "data": [
+      {
+        "text": "te deseo que tengas un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " buen día",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

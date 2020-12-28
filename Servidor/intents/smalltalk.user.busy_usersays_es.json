@@ -1,0 +1,115 @@
+[
+  {
+    "id": "37c9637f-05ba-4f5d-896d-86fea9040e7a",
+    "data": [
+      {
+        "text": "no tengo tiempo para ",
+        "userDefined": false
+      },
+      {
+        "text": "nada",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d256bcd-b04c-47d8-9b80-891718ef3265",
+    "data": [
+      {
+        "text": "disculpa estoy muy ocupada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ffa395e-71a9-4401-8a1d-ec5b4d977131",
+    "data": [
+      {
+        "text": "estoy ocupado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f8c66d7-3a14-4178-92db-d4b1111d34bc",
+    "data": [
+      {
+        "text": "tengo un montón de cosas que hacer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d86fcd5-427e-4382-9c42-4c78d71ef212",
+    "data": [
+      {
+        "text": "estoy muy liado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17221f78-f08c-429d-8b6c-239f6fae25fb",
+    "data": [
+      {
+        "text": "tengo mucho lio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b80f9d0d-4c6d-4953-b8d9-fce540265531",
+    "data": [
+      {
+        "text": "tengo mucho trabajo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed2a448a-3120-460b-b400-a6da579c0d32",
+    "data": [
+      {
+        "text": "tengo muchas cosas que hacer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7343429-e704-463e-933b-6c2ca033b579",
+    "data": [
+      {
+        "text": "no tengo tiempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

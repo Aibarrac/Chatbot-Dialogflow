@@ -1,0 +1,29 @@
+{
+  "id": "5f1c41fc-0644-4c1c-b7bc-b426dabb249f",
+  "name": "smalltalk.user.looks_like",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.looks_like",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Estás muy bien!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720214126,
+  "fallbackIntent": false,
+  "events": []
+}

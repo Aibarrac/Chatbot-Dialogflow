@@ -1,0 +1,74 @@
+[
+  {
+    "id": "05d9f419-2658-4121-a810-0dc9f34ed76e",
+    "data": [
+      {
+        "text": "estoy enojado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c365efb5-8cbb-4b03-94fa-a0eda238b7d7",
+    "data": [
+      {
+        "text": "estoy enfadada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c08f8fb-3dca-440f-bc1f-50381cbc7351",
+    "data": [
+      {
+        "text": "estoy furioso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71114a2a-9aa7-4bf7-a2dc-227d1f5aec32",
+    "data": [
+      {
+        "text": "estoy superenojado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79d934e6-7323-4724-b75c-2688ca909b12",
+    "data": [
+      {
+        "text": "estoy muy enfadado contigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4cf459b-66b7-4b21-a680-2aa3472d4dfb",
+    "data": [
+      {
+        "text": "estoy irritada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

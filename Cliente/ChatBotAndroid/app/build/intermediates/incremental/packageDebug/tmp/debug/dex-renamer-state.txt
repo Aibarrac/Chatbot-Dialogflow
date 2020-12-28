@@ -1,0 +1,13 @@
+#Thu May 30 10:40:30 CEST 2019
+path.3=classes4.dex
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/home/giant/Escritorio/ChatBotAndroid-20190507T065235Z-001/ChatBotAndroid/app/build/intermediates/dex/debug/mergeDexDebug/out
+base.2=/home/giant/Escritorio/ChatBotAndroid-20190507T065235Z-001/ChatBotAndroid/app/build/intermediates/dex/debug/mergeDexDebug/out
+base.1=/home/giant/Escritorio/ChatBotAndroid-20190507T065235Z-001/ChatBotAndroid/app/build/intermediates/dex/debug/mergeDexDebug/out
+base.0=/home/giant/Escritorio/ChatBotAndroid-20190507T065235Z-001/ChatBotAndroid/app/build/intermediates/dex/debug/mergeDexDebug/out

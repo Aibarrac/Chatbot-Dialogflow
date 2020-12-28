@@ -1,0 +1,4 @@
+#Thu May 09 10:28:27 CEST 2019
+base.0=/home/giant/Escritorio/ChatBotAndroid-20190507T065235Z-001/ChatBotAndroid/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

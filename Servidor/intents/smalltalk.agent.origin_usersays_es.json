@@ -1,0 +1,122 @@
+[
+  {
+    "id": "0315c4af-c560-436a-a9a8-d38b437d45c9",
+    "data": [
+      {
+        "text": "dónde está tu ciudad natal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3c93a876-4b97-4b4b-bdc5-452e3a462818",
+    "data": [
+      {
+        "text": "de dónde eres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bcf23e5-6e54-4263-82d0-c4dc7807e1b0",
+    "data": [
+      {
+        "text": "dime de dónde eres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cd7cf7c-519c-4fd8-b587-729dbb9eecde",
+    "data": [
+      {
+        "text": "quisiera saber de dónde eres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8b66892-5beb-49de-8a24-1e6df0927c4b",
+    "data": [
+      {
+        "text": "dónde naciste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92c54a18-5b98-4232-8e32-5ea81d29d40d",
+    "data": [
+      {
+        "text": "cuál es tu ciudad natal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02b27bda-9148-427b-9939-235dd5c656c3",
+    "data": [
+      {
+        "text": "cuéntame donde naciste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ec24d70-dc22-43a4-a7e5-cb1fc8fe04ec",
+    "data": [
+      {
+        "text": "cuéntame algo acerca tu ciudad natal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46095760-6265-42da-8ca7-7763ce86711e",
+    "data": [
+      {
+        "text": "tu patria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c79fb1a-ccce-4f22-9b26-142dc28fe33a",
+    "data": [
+      {
+        "text": "dónde está tu tierra natal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

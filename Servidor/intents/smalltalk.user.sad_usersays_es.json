@@ -1,0 +1,122 @@
+[
+  {
+    "id": "d9097013-7118-4557-aad0-9dae873548b0",
+    "data": [
+      {
+        "text": "estoy infeliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0866d4a-76a4-4789-ace9-2fd2e787ffe0",
+    "data": [
+      {
+        "text": "estoy triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68d07aaf-462a-4f50-a08e-7c762bb9fc41",
+    "data": [
+      {
+        "text": "me siento muy triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0585e100-7ab4-4b4d-ae1a-1e59e0086ffe",
+    "data": [
+      {
+        "text": "tengo depresión",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "317acc7f-09c7-43ab-8e4b-c808623928aa",
+    "data": [
+      {
+        "text": "tengo el ánimo por el piso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fc814c5-6a8e-4c99-aa83-3b330b319889",
+    "data": [
+      {
+        "text": "quiero llorar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f687738-d890-4d09-96ce-02113d3b50bd",
+    "data": [
+      {
+        "text": "ando tristón",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd01fa73-10be-40e0-81e6-7097fd345341",
+    "data": [
+      {
+        "text": "estoy de mala leche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e366c05-cbd1-4bf0-b7eb-26ae98ed9562",
+    "data": [
+      {
+        "text": "estoy de mal humor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc535a71-63b5-4689-8bf0-edec87ef9913",
+    "data": [
+      {
+        "text": "no me siento feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

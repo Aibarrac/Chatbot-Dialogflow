@@ -1,0 +1,482 @@
+[
+  {
+    "id": "284e41de-8eda-4f69-b9eb-d6563bed7ece",
+    "data": [
+      {
+        "text": "mi cumpleaños es el ",
+        "userDefined": false
+      },
+      {
+        "text": "9 de mayo",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "updated": 0
+  },
+  {
+    "id": "53adf23f-89dd-4073-89d3-9428eb35b79a",
+    "data": [
+      {
+        "text": "el cumpleaños de ",
+        "userDefined": false
+      },
+      {
+        "text": "Maria",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " es el ",
+        "userDefined": false
+      },
+      {
+        "text": "13 de abril",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18485ad3-a854-4595-b626-7c6cc36e7cd2",
+    "data": [
+      {
+        "text": "El cumpleaños de ",
+        "userDefined": false
+      },
+      {
+        "text": "Andrea",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " es el ",
+        "userDefined": false
+      },
+      {
+        "text": "13 de octubre",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c24ad8f-d404-407e-9e92-172ebf5e6bb1",
+    "data": [
+      {
+        "text": "el cumple de ",
+        "userDefined": false
+      },
+      {
+        "text": "Roberto",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " es ",
+        "userDefined": false
+      },
+      {
+        "text": "el 12 de septiembre",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f793d869-2eda-4c3b-909c-32fcbaca0a4e",
+    "data": [
+      {
+        "text": "mi cumple es ",
+        "userDefined": false
+      },
+      {
+        "text": "el 13 de octubre",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb3fdefc-0ceb-4b63-93fa-1814e2339f77",
+    "data": [
+      {
+        "text": "el cumpleaños de ",
+        "userDefined": false
+      },
+      {
+        "text": "Mariano",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " es el ",
+        "userDefined": false
+      },
+      {
+        "text": "14 de mayo",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "50db4880-8d8b-4e47-892b-ec9668f11510",
+    "data": [
+      {
+        "text": "Mi cumpleaños es el ",
+        "userDefined": false
+      },
+      {
+        "text": "24 de abril",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "94e4b5c0-012d-42f2-a484-bb6eb824a292",
+    "data": [
+      {
+        "text": "El cumpleaños de ",
+        "userDefined": false
+      },
+      {
+        "text": "Paco",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " es el ",
+        "userDefined": false
+      },
+      {
+        "text": "13 de mayo",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "3dda2bf3-77e4-4f9c-88fa-4cb6ec8102b5",
+    "data": [
+      {
+        "text": "nací el ",
+        "userDefined": false
+      },
+      {
+        "text": "13 de abril",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "44c6baf7-7675-4d73-b124-92484d34952d",
+    "data": [
+      {
+        "text": "mi cumpleaños es el ",
+        "userDefined": false
+      },
+      {
+        "text": "12 de octubre",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 0
+  },
+  {
+    "id": "59882d56-d0e5-4a75-b274-e16d2fd3dd6b",
+    "data": [
+      {
+        "text": "El cumpleaños de ",
+        "userDefined": false
+      },
+      {
+        "text": "Maria",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " es el ",
+        "userDefined": false
+      },
+      {
+        "text": "9 de mayo",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "6ece1c90-f93e-4d4c-84b6-4378eaf785f0",
+    "data": [
+      {
+        "text": "El cumpleaños de ",
+        "userDefined": false
+      },
+      {
+        "text": "Aida",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " es el ",
+        "userDefined": false
+      },
+      {
+        "text": "14 de abril",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "52b9bf5e-10f6-4416-8d5d-ae780773ed24",
+    "data": [
+      {
+        "text": "El cumpleaños de ",
+        "userDefined": false
+      },
+      {
+        "text": "Federico",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " es el ",
+        "userDefined": false
+      },
+      {
+        "text": "1 de julio",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "469abd3e-3fde-4e1b-8cdc-fd1ca0c17a06",
+    "data": [
+      {
+        "text": "El cumpleaños de ",
+        "userDefined": false
+      },
+      {
+        "text": "Elias",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " es el ",
+        "userDefined": false
+      },
+      {
+        "text": "25 de febrero",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f22e88d4-c2e7-434f-a4f5-c6b4f6bdf6cf",
+    "data": [
+      {
+        "text": "Cumplo años el ",
+        "userDefined": false
+      },
+      {
+        "text": "13 de mayo",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "29a604c1-d692-4e3f-8f52-b10f76a52616",
+    "data": [
+      {
+        "text": "El ",
+        "userDefined": false
+      },
+      {
+        "text": "25 de octubre",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " es el cumpleaños de ",
+        "userDefined": false
+      },
+      {
+        "text": "Rosa",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e688f174-04e9-4e8a-ba2a-24a7afc945be",
+    "data": [
+      {
+        "text": "El cumpleaños de ",
+        "userDefined": false
+      },
+      {
+        "text": "Pepe",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " es el ",
+        "userDefined": false
+      },
+      {
+        "text": "7 de mayo",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c3c0b71-6522-4a50-9758-099ccc8fe880",
+    "data": [
+      {
+        "text": "Nací en el ",
+        "userDefined": false
+      },
+      {
+        "text": "15 de septiembre",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3db4bf1b-e4d8-4f13-995c-d2194d1cc23f",
+    "data": [
+      {
+        "text": "Mi cumpleaños es el ",
+        "userDefined": false
+      },
+      {
+        "text": "2 de enero",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5ddcdae-38f6-49a1-9507-de4e3b090040",
+    "data": [
+      {
+        "text": "Nací el ",
+        "userDefined": false
+      },
+      {
+        "text": "9 de mayo",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d03ca78a-2cb0-45b0-acff-5a2606949f0d",
+    "data": [
+      {
+        "text": "Mi cumpleaños es el ",
+        "userDefined": false
+      },
+      {
+        "text": "13 de noviembre",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,505 @@
+[
+  {
+    "id": "b54ca806-5409-44f5-be8f-af8dbd1c56be",
+    "data": [
+      {
+        "text": "nueva cita ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " horas en ",
+        "userDefined": false
+      },
+      {
+        "text": "madrid",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dfc12974-61e7-41e8-850e-3d24ac4fcf04",
+    "data": [
+      {
+        "text": "Nueva cita ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "17",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "la peluquería",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46818bf1-1b75-4fab-b68a-974d7c343567",
+    "data": [
+      {
+        "text": "nueva cita ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a las 4 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Castellon",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8f4ad28a-d4cc-47c8-962c-3b7a165a6f11",
+    "data": [
+      {
+        "text": "Cita ",
+        "userDefined": false
+      },
+      {
+        "text": "para mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a las 4pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "la floristeria",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa54d342-afcb-4b1a-ba65-c81a641a13f1",
+    "data": [
+      {
+        "text": "Reservar cita ",
+        "userDefined": false
+      },
+      {
+        "text": "para mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "12:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "la peluqueria",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9470bf7-8524-47e1-a7b5-a51d0c7cd9ee",
+    "data": [
+      {
+        "text": "Añadir cita ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "4:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Castellon",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f4c1dd39-0817-42c9-8276-6f34b94b61e6",
+    "data": [
+      {
+        "text": "Definir cita ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "7pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "el bar",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e6d8c04b-bca8-4648-99ca-7af3424d3b83",
+    "data": [
+      {
+        "text": "definir cita ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a las",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Valencia",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f2ef91c-1023-448b-8f92-d0393080ff12",
+    "data": [
+      {
+        "text": "definir cita ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "tu culo",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c1f9e32-de4c-4cbe-aa14-091f2d28e904",
+    "data": [
+      {
+        "text": "Nueva",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cita ",
+        "userDefined": false
+      },
+      {
+        "text": "para el 15 de abril",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "17:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " horas en ",
+        "userDefined": false
+      },
+      {
+        "text": "casa Pepe",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44d060dd-36e5-47e1-b496-24b11b0f4f96",
+    "data": [
+      {
+        "text": "definir cita ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "la vagina de la hermana de Elías",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11592158-69cd-4b75-9b18-85ebbdc53a1e",
+    "data": [
+      {
+        "text": "definir cita ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "4pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "castellon",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ebb342fd-dc9e-480c-8aa0-52c7bdc05913",
+    "data": [
+      {
+        "text": "Definir cita ",
+        "userDefined": false
+      },
+      {
+        "text": "para hoy",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "11:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "la universidad",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

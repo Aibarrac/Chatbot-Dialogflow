@@ -1,0 +1,194 @@
+[
+  {
+    "id": "20ea2292-0ed0-40d3-aacb-e517eef54f75",
+    "data": [
+      {
+        "text": "en un rato hablamos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b20b5bb-b495-4900-846e-56418d006af8",
+    "data": [
+      {
+        "text": "adiós",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25cf8bf1-052c-4261-9323-712a3a301770",
+    "data": [
+      {
+        "text": "hasta luego",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c64059d8-d221-4ac4-b1dd-44ff7184850d",
+    "data": [
+      {
+        "text": "hasta pronto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b8bfddf5-c6a8-4114-8064-b0892083624e",
+    "data": [
+      {
+        "text": "nos vemos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19302cfe-2673-4621-a5b7-6a8f4b152803",
+    "data": [
+      {
+        "text": "hasta la próxima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "204d69aa-0197-4293-a867-1e6bf52e4038",
+    "data": [
+      {
+        "text": "ya hablamos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d754dae-4e09-4c00-932b-53ab1f27681d",
+    "data": [
+      {
+        "text": "hasta la vista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29d5bd39-7e87-4840-b5ef-5b1dd39fb618",
+    "data": [
+      {
+        "text": "chao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "aa8aa3d0-ccaa-4cdb-b8d4-bbb79b015aab",
+    "data": [
+      {
+        "text": "adiós amigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a96a3f7b-f63b-4c68-8794-4012d49eeb2d",
+    "data": [
+      {
+        "text": "hasta mañana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aab6d4ac-74c4-4660-a6b5-8d488e1b0734",
+    "data": [
+      {
+        "text": "hasta después",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "662a0a9e-c7f1-4010-b544-7d6a8889be6b",
+    "data": [
+      {
+        "text": "me despido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c77c4e1-3ecc-412f-819a-bb30081730fb",
+    "data": [
+      {
+        "text": "me retiro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4df8f1f-9a81-49c5-b75f-fd06aa8ceace",
+    "data": [
+      {
+        "text": "me tengo que ir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c84242c2-6beb-446b-9881-e59135b4c302",
+    "data": [
+      {
+        "text": "por ahora me voy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

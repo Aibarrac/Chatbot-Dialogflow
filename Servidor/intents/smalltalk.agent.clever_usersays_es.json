@@ -1,0 +1,176 @@
+[
+  {
+    "id": "d8849535-57ef-4662-a56d-cb04eea141a0",
+    "data": [
+      {
+        "text": "eres muy lista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f4724a6-26ec-4785-ab1a-d69e6b06f96a",
+    "data": [
+      {
+        "text": "eres listo",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82b29d2c-2312-47a5-8193-dd6807660c11",
+    "data": [
+      {
+        "text": "que",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " listo eres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79f04505-1e10-4bb0-956d-0e4d3f6cfd40",
+    "data": [
+      {
+        "text": "eres tan listo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dba2eb80-de9d-46f6-9480-f3d2a792e67a",
+    "data": [
+      {
+        "text": "eres tan inteligente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bab0093-5450-463f-8c65-7768b337cf41",
+    "data": [
+      {
+        "text": "que inteligente eres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abf76e71-4b8a-49b6-b8f3-2f8a157ab80c",
+    "data": [
+      {
+        "text": "pareces muy inteligente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "567d710a-2cef-4787-a27c-a067836b3e7b",
+    "data": [
+      {
+        "text": "por qué eres tan lista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e010a51-b23d-4be3-9b82-034f1998a742",
+    "data": [
+      {
+        "text": "sabes muchas cosas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35cc9002-4a46-44a0-8154-88e1f968452f",
+    "data": [
+      {
+        "text": "sabes un montón de cosas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f12bf237-e959-4d68-a6de-5c61218a6e6d",
+    "data": [
+      {
+        "text": "eres un genio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd98a2fe-c63f-4ce8-9f73-22c420e8c53c",
+    "data": [
+      {
+        "text": "creo que eres muy inteligente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eaf5fbd0-e423-4d35-b654-9306706c0ae8",
+    "data": [
+      {
+        "text": "eres demasiado lista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbc088fe-337c-4942-bd06-3c9aadcae7b3",
+    "data": [
+      {
+        "text": "eres muy lista de verdad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

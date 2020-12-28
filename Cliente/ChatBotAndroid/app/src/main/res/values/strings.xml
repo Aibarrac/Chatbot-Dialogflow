@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DialogflowChat</string>
+    <string name="bot_msg">bot_msg</string>
+    <string name="user_msg">user_msg</string>
+    <string name="queryEditText">queryEditText</string>
+    <string name="img">img</string>
+    <string name="microphone">microphone</string>
+    <string name="sendBtn">sendBtn</string>
+</resources>

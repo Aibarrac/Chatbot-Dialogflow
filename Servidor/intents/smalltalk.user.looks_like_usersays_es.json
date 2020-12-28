@@ -1,0 +1,74 @@
+[
+  {
+    "id": "9aaad90a-9811-4371-a06c-c37158826da1",
+    "data": [
+      {
+        "text": "qué tal estoy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6746d69-79fd-4115-9aa7-ea934e5bd71f",
+    "data": [
+      {
+        "text": "cómo estoy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f78e0dc-b7c1-406d-a15e-4f83c9086c8a",
+    "data": [
+      {
+        "text": "me veo bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "169fe0d9-fee7-4372-b9e7-f5a8b5670132",
+    "data": [
+      {
+        "text": "qué te parezco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1e910b1-12c5-417a-a2c1-4484ae0d9ae9",
+    "data": [
+      {
+        "text": "cómo te parezco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e10246d1-bed9-4574-aa5e-6c5c5b740569",
+    "data": [
+      {
+        "text": "dime qué te parezco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

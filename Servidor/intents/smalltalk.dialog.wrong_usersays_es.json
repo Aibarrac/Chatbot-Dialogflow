@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c04a41a0-6630-4bec-8f34-a5d5c0354c76",
+    "data": [
+      {
+        "text": "incorrecto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f42a7dc5-ff9f-4dae-82bd-6241a80a4523",
+    "data": [
+      {
+        "text": "no es así",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b42ce46e-de80-4c32-b4de-e6f272ee4a0f",
+    "data": [
+      {
+        "text": "te equivocas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9897383-dd49-4d96-88bb-bf68dcb1e2db",
+    "data": [
+      {
+        "text": "es incorrecto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea5a3da9-b51d-44ed-8a63-67b50d988c17",
+    "data": [
+      {
+        "text": "no es correcto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aee89dc2-69f5-4903-9cc7-5f123e5367bc",
+    "data": [
+      {
+        "text": "estoy seguro de que te equivocas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
